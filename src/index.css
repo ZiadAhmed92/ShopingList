@@ -1,0 +1,25 @@
+.lable{
+font-size: 1.5em;
+
+text-transform: uppercase;
+}
+#add{
+    width:90%;
+    padding: 5px;
+    margin: 0 0 0 10px ;
+   
+}
+.btn-add{
+    font-size: 1em;
+    margin-left: 4px;
+    
+}
+.form{
+    display: flex;
+    align-items: center;
+   
+}
+.search{
+    width: 90%;
+    margin-left: 10px !important;
+}
